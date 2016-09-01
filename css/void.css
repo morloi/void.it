@@ -1,0 +1,7 @@
+.header {
+  background: url(../img/bgvoid.jpg) no-repeat center center scroll;
+}
+.void-title {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding-top: 15px;
+}
